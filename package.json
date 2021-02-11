@@ -1,0 +1,26 @@
+{
+  "name": "waifubot",
+  "version": "1.0.0",
+  "description": "A twitter bot that posts a randomly generated waifu every 30 minutes.",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11",
+    "waifulabs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hysyy/waifubot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hysyy/waifubot/issues"
+  },
+  "homepage": "https://github.com/hysyy/waifubot#readme"
+}
